@@ -31,3 +31,4 @@ In summary, a social media post calendar is an invaluable asset that allows bran
 
 OUTPUT:
 
+[30-Day-Social-Media-Calendar.xlsx](https://github.com/user-attachments/files/21022786/30-Day-Social-Media-Calendar.xlsx)
